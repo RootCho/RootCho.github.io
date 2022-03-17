@@ -1,0 +1,46 @@
+.title-sign-up {
+  font-size: 25px;
+  font-weight: 550;
+  margin-bottom: 40px;
+}
+
+.sign-up {
+  width: 441px;
+  margin: 0;
+}
+
+form .input-list {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
+form .input-list:nth-of-type(6) {
+  margin-bottom: 0;
+  height: 80px;
+}
+
+label {
+  margin-bottom: 8px;
+}
+
+.main-left {
+  padding-top: 30px;
+  padding-bottom: 88px;
+}
+.agreement {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 25px;
+}
+input.checkbox {
+  width: 15px;
+  height: 15px;
+  margin: 0 4px;
+}
+
+label[for="check"] {
+  margin: 0;
+}

@@ -1,0 +1,14 @@
+.main-left .title-find-id {
+  margin-bottom: 28px;
+  font-weight: 500;
+}
+
+button.find-id {
+  font-size: 13.33px;
+  margin-top: 25px;
+}
+
+input {
+  margin-top: 4px;
+  margin-bottom: 0;
+}

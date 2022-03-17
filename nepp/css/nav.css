@@ -1,0 +1,15 @@
+.nav {
+  background: black;
+  width: 100vw;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+}
+.nav h1 {
+  width: 1180px;
+  height: 100%;
+}
+
+.nav img {
+  width: 99px;
+}
