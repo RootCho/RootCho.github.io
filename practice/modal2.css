@@ -1,0 +1,43 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.background {
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.4);
+  position: fixed; /*브라우저 창을 기준으로 위치 고정, 스크롤해도 안 움직임*/
+  top: 0;
+  left: 0;
+  display: none;
+}
+
+.modal-item {
+  min-width: 500px;
+  background: white;
+  border-radius: 4px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: none;
+}
+
+.modal-item .modal-header {
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.modal-item .modal-body {
+  padding: 10px 15px 20px 15px;
+  border-top: 1px solid #ddd;
+}
+
+.modal-item .modal-footer {
+  padding: 15px;
+  border-top: 1px solid #ddd;
+  display: flex;
+  justify-content: flex-end;
+}
