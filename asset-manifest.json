@@ -1,15 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.af370fac.css",
-    "main.js": "/static/js/main.44f493c7.js",
-    "static/js/787.b701888c.chunk.js": "/static/js/787.b701888c.chunk.js",
+    "main.css": "/static/css/main.4e9e20c5.css",
+    "main.js": "/static/js/main.915b1a46.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/SuncheonB.ttf": "/static/media/SuncheonB.474f1b82410e6de9e1f6.ttf",
+    "static/media/SuncheonR.ttf": "/static/media/SuncheonR.ad63959132d048ee7f35.ttf",
+    "static/media/me.png": "/static/media/me.356d3f0261da6adefc4d.png",
+    "static/media/BalooThambi2-VariableFont_wght.ttf": "/static/media/BalooThambi2-VariableFont_wght.9ffbd674ede6fa7af099.ttf",
+    "static/media/YoutubeLogo.svg": "/static/media/YoutubeLogo.12d97d1c044d0c88c235a2599b902134.svg",
+    "static/media/Setting.svg": "/static/media/Setting.127c2bc07184ddcb61a66c4ff2d54699.svg",
     "index.html": "/index.html",
-    "main.af370fac.css.map": "/static/css/main.af370fac.css.map",
-    "main.44f493c7.js.map": "/static/js/main.44f493c7.js.map",
-    "787.b701888c.chunk.js.map": "/static/js/787.b701888c.chunk.js.map"
+    "static/media/Alarm.svg": "/static/media/Alarm.7f11b0faceb768324dd66d1e2406078f.svg",
+    "static/media/Apps.svg": "/static/media/Apps.f66858ea45dc4357af78130cafed7c42.svg",
+    "static/media/UnLike.svg": "/static/media/UnLike.c077daf49a94b9bf71b53b1df9a498e4.svg",
+    "static/media/Like.svg": "/static/media/Like.0c82f454648cf49a28268d19ae40c2a7.svg",
+    "static/media/Microphone.svg": "/static/media/Microphone.7efdbe17f9c24f1210d05560e3d93225.svg",
+    "static/media/Glass.svg": "/static/media/Glass.b85c38f311a95d0666edc627f6d5a59d.svg",
+    "static/media/MenuRenderer.svg": "/static/media/MenuRenderer.111d49eccec1243c4efd92ebdcf62c33.svg",
+    "static/media/Video.svg": "/static/media/Video.b9d6330a91a17ed1d6580e1360b62e81.svg",
+    "static/media/Hamburger.svg": "/static/media/Hamburger.25a768342f4be849d0a456b10cdd2658.svg",
+    "static/media/Array.svg": "/static/media/Array.29a61f5f2f9a114d68eb6f92b5e5c63b.svg",
+    "main.4e9e20c5.css.map": "/static/css/main.4e9e20c5.css.map",
+    "main.915b1a46.js.map": "/static/js/main.915b1a46.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.af370fac.css",
-    "static/js/main.44f493c7.js"
+    "static/css/main.4e9e20c5.css",
+    "static/js/main.915b1a46.js"
   ]
 }
